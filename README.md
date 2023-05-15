@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning NestJs, tailwind and .Net
 - 💞️ I’m looking to collaborate on more projects
 - 📫 Here's how you can reach me 
--- message me thru linkedin: www.linkedin.com/in/angel-tamparong-6525bb195
--- email: tamparongpreciousangel@gmail.com
+message me thru linkedin: **www.linkedin.com/in/angel-tamparong-6525bb195**
+email: **tamparongpreciousangel@gmail.com**
 
 <!---
 PATamparong/PATamparong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
