@@ -1,10 +1,10 @@
-## ✨✨Hello I'm **Precious Angel**👊🏼
+## ✨Hello I'm **Precious Angel**👊🏼
 
 - 🏳️ I am a Fullstack Programmer from Philippines
 - 🌱 I’m currently learning NestJs, tailwind and .Net
 - 💞️ I’m looking to collaborate on more projects
 
-## ✨✨Contact
+## ✨Contact
 - message me thru linkedin: **www.linkedin.com/in/angel-tamparong-6525bb195**
 - email: **tamparongpreciousangel@gmail.com**
 
