@@ -1,4 +1,4 @@
-## ✨Hello I'm **Precious Angel**👊🏼
+## ✨Hello I'm **Precious Angel**👊🏼💪
 
 - 🏳️ I am a Fullstack Programmer from Philippines
 - 🌱 I’m currently learning NestJs, tailwind and .Net
