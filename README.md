@@ -1,6 +1,6 @@
 ## ✨Hello I'm **Precious Angel**👊🏼💪
 
-- 🏳️ I am a Fullstack Programmer from Philippines
+- 🏳️ I am a Fullstack Developer from Philippines
 - 🌱 I’m currently learning NestJs, tailwind and .Net
 - 💞️ I’m looking to collaborate on more projects
 
